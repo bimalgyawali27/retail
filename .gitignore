@@ -1,0 +1,26 @@
+# Maven
+target/
+*.jar
+*.war
+*.class
+
+# IDE
+.idea/
+*.iml
+.eclipse
+.settings/
+.project
+.classpath
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Spring Boot
+application-local.properties
+application-secret.properties
+
+# Logs
+*.log
+logs/
